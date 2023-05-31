@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b6abf52f7d0cb4fc",
+        "id": "1821ebd51c47311d",
         "type": "tabs",
         "children": [
           {
-            "id": "1e2c59ff398d3622",
+            "id": "ac6f99b4bd4d5848",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目问题汇总.md",
-                "mode": "source",
+                "file": "2017-2019/河海大学电子信息工程到南京大学计算机——保研呐就都不知道，自己就不可以预料 - 简书.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "体系结构",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目问题汇总.md",
+                "file": "2017-2019/河海大学电子信息工程到南京大学计算机——保研呐就都不知道，自己就不可以预料 - 简书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目问题汇总.md"
+                "file": "2017-2019/河海大学电子信息工程到南京大学计算机——保研呐就都不知道，自己就不可以预料 - 简书.md"
               }
             }
           }
@@ -131,45 +131,45 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "44b4defc747ae2f6",
+  "active": "ac6f99b4bd4d5848",
   "lastOpenFiles": [
+    "2022/zhuanlan.zhihu.com_p_569393809.md",
+    "2022/zhuanlan.zhihu.com_p_421697204.md",
+    "2022/zhuanlan.zhihu.com_p_394450172.md",
+    "2021/zhuanlan.zhihu.com_p_263553192.md",
+    "2021/zhuanlan.zhihu.com_p_263086696.md",
+    "2020/www.jianshu.com_p_2228d7464d99.md",
     "intro.md",
+    "2021/2021年（22届）计算机保研面试经验与建议（复旦、北航、中山、浙大工程师、华东师、华工等院校） - 知乎.md",
+    "2022/blog.csdn.net_weixin_45781381_article_details_127144804?spm=1001.2014.3001.5501.md",
+    "2021/blog.csdn.net_qq_43413123_article_details_109094823.md",
+    "2022/blog.csdn.net_m0_47262980_article_details_127122358.md",
+    "2022/blog.csdn.net_IanYue_article_details_127076919?spm=1001.2014.3001.5501.md",
+    "2017-2019/2019计算机夏令营保研 - 知乎.md",
+    "2017-2019/(6 条消息) 保研是什么体验？ - 知乎.md",
+    "college.md",
+    "2017-2019/我的计算机保研流水账（2019年·清华计算法学·中科院软件所·浙大软院等） - 知乎.md",
+    "2022/zhuanlan.zhihu.com_p_569829982.md",
+    "2022/zhuanlan.zhihu.com_p_418347688.md",
+    "2022/zhuanlan.zhihu.com_p_502719456.md",
+    "2021/zhuanlan.zhihu.com_p_157633072.md",
+    "经验贴.zip",
+    "2020/zhuanlan.zhihu.com_p_78585742.md",
+    "2022/guoch.xyz_2022_10_13_baoyan_.md",
+    "2022/blog.csdn.net_qq_45722494_article_details_125954889.md",
+    "2017-2019/【思享·大工·第66期】宋星辰：从大工计算机到清华计算机系直硕.md",
+    "4913",
+    "dl/notes.md",
+    "dl/paper.md",
+    "cv.pdf",
+    "cv/resume.pdf",
+    "cv/resume.synctex(busy)",
+    "cv/resume.out",
+    "cv/resume.aux",
+    "cv/resume.log",
     "cv/fonts/zh_CN-Adobe/AdobeSongStd-Light.otf",
     "cv/fonts/zh_CN-Adobe/AdobeKaitiStd-Regular.otf",
-    "cv/fonts/zh_CN-Adobe/AdobeHeitiStd-Regular.otf",
-    "cv/fonts/Main/texgyretermes-regular.otf",
-    "cv/fonts/Main/texgyretermes-italic.otf",
-    "cv/fonts/Main/texgyretermes-bolditalic.otf",
-    "cv/fonts/Main/texgyretermes-bold.otf",
-    "cv/fonts/Main/Fontin-SmallCaps.otf",
     "cv/images/you_.jpg",
-    "cv/images/you.jpg",
-    "cv/fonts/zh_CN-Adobe",
-    "cv/fonts/fontawesome-webfont.ttf",
-    "cv/README.md",
-    "文书/(1 封私信  34 条消息) 保研夏令营的推荐信应该怎么写？ - 知乎.md",
-    "2017-2019/(1 封私信  34 条消息) 保研夏令营的推荐信应该怎么写？ - 知乎.md",
-    "2022/zhuanlan.zhihu.com_p_570763361.md",
-    "2022/zhuanlan.zhihu.com_p_562764736.md",
-    "2022/zhuanlan.zhihu.com_p_413778973.md",
-    "2022/www.zhihu.com_question_469350209_answer_2015872572.md",
-    "2022/guoch.xyz_2022_10_13_baoyan_.md",
-    "2020/blog.csdn.net_qq_38633884_article_details_97178586.md",
-    "项目问题汇总.md",
-    "2022/zhuanlan.zhihu.com_p_570092284.md",
-    "2022/zhuanlan.zhihu.com_p_569715955.md",
-    "2022/blog.csdn.net_qq_50764810_article_details_127028093.md",
-    "2021/2021年（22届）计算机保研面试经验与建议（复旦、北航、中山、浙大工程师、华东师、华工等院校） - 知乎.md",
-    "record.md",
-    "2022/zhuanlan.zhihu.com_p_568980903.md",
-    "2022/zhuanlan.zhihu.com_p_415666100.md",
-    "2022/www.starryfk.com_else_record-my-2023-postgradute-recommendation.html.md",
-    "2017-2019/2019计算机夏令营保研 - 知乎.md",
-    "2021/blog.csdn.net_weixin_43722211_article_details_109035339.md",
-    "2020/zhuanlan.zhihu.com_p_60553247.md",
-    "2022/zhuanlan.zhihu.com_p_413940434.md",
-    "2022/zhuanlan.zhihu.com_p_417233047.md",
-    "2022/zhuanlan.zhihu.com_p_584854212.md",
-    "2022/zhuanlan.zhihu.com_p_581205619.md"
+    "cv/images/you.jpg"
   ]
 }
