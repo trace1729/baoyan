@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022/zhuanlan.zhihu.com_p_417115393.md",
+                "file": "intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "西北",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022/zhuanlan.zhihu.com_p_417115393.md",
+                "file": "intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022/zhuanlan.zhihu.com_p_417115393.md"
+                "file": "intro.md"
               }
             }
           }
@@ -125,16 +124,35 @@
   },
   "active": "e8ad547e7d5f9c7c",
   "lastOpenFiles": [
+    "导师.md",
+    "README.md",
+    "proj.md",
+    "intro.md",
+    "项目问题汇总.md",
+    "#项目问题汇总.md#",
+    "2022/zhuanlan.zhihu.com_p_570092284.md",
+    "#intro.md#",
+    "intro.md~",
+    "2022/zhuanlan.zhihu.com_p_569715955.md",
+    "2022/zhuanlan.zhihu.com_p_570509998.md",
+    "2022/zhuanlan.zhihu.com_p_572166269.md",
+    "2022/zhuanlan.zhihu.com_p_575140597.md",
+    "2022/zhuanlan.zhihu.com_p_581205619.md",
+    "2022/zhuanlan.zhihu.com_p_583086125.md",
+    "2022/zhuanlan.zhihu.com_p_415666100.md",
+    "2022/zhuanlan.zhihu.com_p_413940434.md",
+    "2022/zhuanlan.zhihu.com_p_392522446.md",
+    "2022/zhuanlan.zhihu.com_p_377444777.md",
+    "2021/zhuanlan.zhihu.com_p_265095282.md",
+    "2021/blog.csdn.net_weixin_43722211_article_details_109035339.md",
+    "2022/blog.csdn.net_qq_50764810_article_details_127028093.md",
+    "2017-2019/(6 条消息) 保研是什么体验？ - 知乎.md",
+    "2022/blog.csdn.net_qq_45722494_article_details_125954889.md",
     "2022/blog.csdn.net_m0_47262980_article_details_127122358.md",
-    "CS61/CS61b/week 3/testing/testing.md",
-    "CS61/CS61b/week 3/week 3.md",
-    "Alogrithm/素数筛.md",
-    "Alogrithm/单调队列.md",
-    "CS61/CS61b/week one/idea 的样式/image/image_3-VxlYTr5O.png",
-    "CS61/CS61b/week 4/java lib and ADT/java lib and ADT.md",
-    "CS61/CS61b/week 4/Intro and interface/Intro and interface.md",
-    "CS61/CS61b/week 6/package assess control/package assess control.md",
-    "CS61/CS61b/week 6/package assess control/Private/Private.md",
-    "CS61/CS61b/week 6/package assess control/Package private/Package private.md"
+    "2021/2021年（22届）计算机保研面试经验与建议（复旦、北航、中山、浙大工程师、华东师、华工等院校） - 知乎.md",
+    "文书/(1 封私信  34 条消息) 保研夏令营的推荐信应该怎么写？ - 知乎.md",
+    "2022/zhuanlan.zhihu.com_p_417115393.md",
+    "2022/www.starryfk.com_else_record-my-2023-postgradute-recommendation.html.md",
+    "CS61/CS61b/week one/idea 的样式/image/image_3-VxlYTr5O.png"
   ]
 }
