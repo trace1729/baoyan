@@ -1,0 +1,78 @@
+## 自我介绍
+老师好，我是龚开宸，就读于南昌大学数学与计算机学院。在校排名 12/211, 四六级一次通过。我乐观向上，有着广泛的兴趣爱好, 比如足球、阅读等。	
+
+我在本科期间主要的研究方向是计算机体系结构，在课余时间我做了不少相关的项目，在这里重点介绍两个。一个是基于Logisim 的 RISC-V CPU	，使用 Logisim 制作，利用 python 脚本生成测试电路进行测试，最终CPU可以运行一些简单的 RISC-V 汇编代码，比如 *冒泡排序* 或者是 *递归* 求斐波那契数列。
+另一个项目则是为 xv6 这个 类unix 操作系统添加了一些功能，比如系统调用、用户中断；同时也进行了一些优化，比如实现了 copy-on-write 写时复制。
+
+除了体系结构，在深度学习领域我也有所涉猎。我阅读了有关深度学习的经典论文，如 AlexNet, GooLeNet, ResNet 等。在阅读论文后 ，我也尝试用 `pytorh` 对论文里的模型进行复现。最终基于 ResNet 搭建了一个野生动物分类器。
+
+除了学业，我也积极参与社会活动。曾经作为志愿者参加了2021年的南昌大学百年校庆和2022年的全国互联网+大赛。
+
+[latex](latexlive.com)
+
+
+英文自我介绍
+
+Good morining, I am very glad to be here for this interview.
+
+First, Let me introduce myself, My name is Gongkaichen. I am a undergraduate student in NanChan University, major in Computer science.
+
+I'm open-minded, willing to help others and have broad interests like basetball, reading and especially engineering such as software programming and hardware design. I've accomplished two system projects during the past three years. One is the full functiong CPU that can run simple risc-v assembly code. For example, calculate fabonaci number recersively. Another is some optimizition technique I adopted to the unix-like operating system xv6. For example, copy on write feature which boost the effiecncy. 
+
+In addition I also participate in some social activities like being a volunteer in the 7th International college student Internet+ competition.
+
+Although I have broad interest in many aspects and grasp the essential part of major, I am not competent to do things professionally oweing lack of ample knowledge and ability. So futher study is urgent to realize my self-value.
+
+2. risc-v 的项目没有解释清楚以下几点
+	1. logisim 是什么，为什么用 logisim
+	2. 如何进行测试，说了但不是很清晰
+
+3. xv6 操作系统 完全忘记了
+
+    编写的代码的执行过程要背下来。
+
+1. 要科研还是就业 科研
+     要直播还是硕士 直博
+
+1. 研究方向  
+    -  Computer architecture
+    -  Embedded & real-time systems 
+    -  Software engineering 软件所
+    -  Computer vision
+    -  Computer security
+
+2. 团队合作
+	- 有没有什么团队协作项目，你在团队里充当什么角色
+
+3. 如果有人不愿意写代码怎么办
+    - 首先和团队成员交流， 问他为什么不想写代码
+    - 如果是因为不会写，那么我会提供帮助与知道
+    - 如果他实在不想写，那么我会为他重新分配任务职责，
+    -  比如制作ppt
+    - (也可以从自身找问题)。任务和职责有没有分配到位，要求
+    -  要求是不是清晰，有没有明确的截止时间
+    - 及时跟进团队成员的进度。
+
+
+导师陶瓷:
+
+<span id="t3"></span>
+<div>
+  <h3 align="center">
+    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/email.png" width="40" />
+      套磁
+  </h3>
+</div>
+
+  
+老师您好，我是`南昌大学数学与计算机学院`的`20级`本科生`龚开宸`，希望能保送到您的课题组攻读硕士研究生。  
+我乐观善良、自律勤奋，数理基础扎实。大一至大三成绩优异，连续两年取得校级奖学金。此外，我有着扎实的英语功底 (CET-6 568) 具备研究工作中所需的基本技能。我认为我在本科期间已经经历了一个较为完整的科研训练，有能力胜任研究生的科研任务。最重要的是，我踏实专注，能吃苦、有韧劲，有信心在未来的科研道路中取得优异的成果。
+`北京邮电大学`作为我国计算技术领域首屈一指的学院，不但有强大的科研实力和纯粹的科研环境，更有像您一样通才硕学、春风化雨的优秀导师，让我无比向往。我对`计算机体系结构`领域的研究很感兴趣，因此，我非常渴望能进入您的课题组读研，在相关领域的研究中尽己所能、有所贡献。为此，我已报名`计算机学院`夏令营，希望借助`厦大`夏令营让我有机会成为您的学生。但在此之前，我想通过这封邮件请问老师是否有兴趣给我这个机会，如果可能的话，期待与您的进一步联系！  
+非常感谢老师读到这里，我在附件中放了我的简历，如果老师有兴趣，欢迎下载查阅。  
+
+龚开宸  
+南昌大学 数学计算机学院  
+E-mail: 6103120034@email.ncu.edu.cn
+Tel/Wechat: 18270359936 
+
+
