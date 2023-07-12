@@ -25,3 +25,10 @@ While I possess a broad range of interests and have acquired a solid understandi
 
 Thank you for considering my introduction. I look forward to discussing further and showcasing my enthusiasm for computer science.
 
+个人简述文稿：
+ 
+
+ 
+ 
+ 
+ 
