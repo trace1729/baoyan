@@ -8,21 +8,6 @@
 
 除了学业，我也积极参与社会活动。曾经作为志愿者参加了2021年的南昌大学百年校庆和2022年的全国互联网+大赛。
 
-[latex](latexlive.com)
-
-
-英文自我介绍
-
-Good morining, I am very glad to be here for this interview.
-
-First, Let me introduce myself, My name is Gongkaichen. I am a undergraduate student in NanChan University, major in Computer science.
-
-I'm open-minded, willing to help others and especially favors engineering such as software programming and hardware design. I've accomplished two system projects during the past three years. One is the full functiong CPU that can run simple risc-v assembly code. For example, calculate fabonaci number recersively. Another is some optimizition technique I adopted to the unix-like operating system xv6. For example, copy on write feature which boost the effiecncy. 
-
-In addition I also participate in some social activities like being a volunteer in the 7th International college student Internet+ competition.
-
-Although I have broad interest in many aspects and grasp the essential part of major, I am not competent to do things professionally oweing lack of ample knowledge and ability. So futher study is urgent to realize my self-value.
-
 
 第二版
 
@@ -32,11 +17,11 @@ Allow me to introduce myself. My name is Gongkaichen, and I am currently an unde
 
 I consider myself to be open-minded and always willing to lend a helping hand to others. I have a particular affinity for engineering, specifically in the areas of software programming and hardware design. Over the past three years, I have successfully completed two noteworthy projects.
 
-One of my projects involved developing a fully functional CPU capable of running simple RISC-V assembly code. For instance, I implemented a recursive Fibonacci number calculation. Another project focused on optimizing the performance of the Unix-like operating system, xv6. I introduced various techniques, such as copy-on-write, which significantly improved its efficiency.
+One of my projects involved developing a fully functional CPU capable of running simple RISC-V assembly code. For instance, It can calc Fibonacci number recursively. Another project focused on optimizing the performance of the Unix-like operating system, xv6. I introduced various techniques, such as copy-on-write, which significantly improved its efficiency.
 
-Furthermore, I actively engage in social activities. I had the privilege of volunteering in the 7th International College Student Internet+ competition.
+Furthermore, I actively engage in social activities. For example, I had the privilege of being a volunteer in the 7th International Internet+ competition.
 
-While I possess a broad range of interests and have acquired a solid understanding of my field of study, I acknowledge that I still have much to learn and improve upon. I am eager to pursue further studies to enhance my knowledge and skills, as I believe this is essential for realizing my full potential and contributing meaningfully to the field.
+While I possess a broad range of interests and have acquired a solid understanding of my field of study, I acknowledge that I still have much to learn and improve upon. I am eager to pursue further studies, as I believe this is essential for realizing my full potential and contributing meaningfully to the field.
 
 Thank you for considering my introduction. I look forward to discussing further and showcasing my enthusiasm for computer science.
 
